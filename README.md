@@ -3,8 +3,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MusfiqAyon&color=blueviolet)  
 
-💻 **Currently Learning:** C++, Web Development, Italian 🇮🇹  
-💡 **Interests:** Problem Solving, Open Source, Software Engineering  
+💻 **Currently Learning:** C++, Web Development, Graphic Designer, Video Editor.  
+💡 **Interests:** Problem Solving, Open Source, Designing and Creativity.  
 📖 **Education:** BSc in CSE at University of Brahmanbaria (2025-2028)  
 🎯 **Goals:** Build an IT business & contribute to open-source projects  
 
