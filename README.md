@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/MusfiqAyon-MSL3/MusfiqAyon-MSL3/blob/main/Musfiq%20Ayon.png" alt="Musfiq Ayon Cover" width="100%">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Musfiq Ayon</h1>
 <h3 align="center">🚀 Computer Science & Engineering Student | Aspiring IT Professional | Passionate About Tech</h3>
 
