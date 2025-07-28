@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MusfiqAyon-MSL3/MusfiqAyon-MSL3/blob/main/Musfiq%20Ayon.png" alt="Musfiq Ayon Cover" width="100%">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Musfiq Ayon Cover" width="100%">
 </p>
 
 
